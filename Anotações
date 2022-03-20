@@ -1,0 +1,14 @@
+Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+Aula 01: Apresentação
+Aula 02: Revisão
+Pode abrir o terminal direto da pasta com o botão direito do mouse (“Abrir no terminal”), de forma que não precisa do CD no terminal para entrar na pasta desejada.
+Clone o arquivo desejado no gitHub e coloque o comando: git clone LINKdoGIThub.
+Depois do clone entre na pasta clonada com o cd NOMEdaPASTA.
+Faça as alterações necessárias e depois commit: git commit -m “texto”.
+Inclua no git hub com o git push origin main.
+Quarteto:
+GIT ADD .
+GIT COMMIT -M “TEXTO”
+GIT STATUS
+GIT PUSH ORIGIN MASTER OU MAIN.
+
